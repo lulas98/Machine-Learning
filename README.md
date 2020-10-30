@@ -1,6 +1,7 @@
 ## Machine-Learning
 #Master Data Science CUNEF
-Dentro de happy countries, tendréis la siguiente estructura:
+
+Dentro de happy countries, está la siguiente estructura:
 
 README.md <- The top-level README for developers.
 
